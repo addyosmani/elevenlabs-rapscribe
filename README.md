@@ -10,10 +10,15 @@ A React-based audio visualization application powered by ElevenLabs' Scribe mode
   - Smart speaker diarization
   - Word-level timestamps for accurate subtitles
   - Auto-tagging of sound events
+  - Exceptional handling of high-speed vocals and complex rap lyrics
 - Support for multiple audio tracks
 - TypeScript support for enhanced type safety
 - Modern build system using Vite
 - Tailwind CSS for styling
+
+## Demo Highlights
+
+This project showcases ElevenLabs' Scribe model's impressive ability to transcribe extremely rapid speech, as demonstrated with Eminem's "Rap God" - a song notorious for its super-fast sections that exceed 6 words per second. Where many speech recognition systems fail with such challenging content, Scribe maintains high accuracy even with the most technically demanding vocal performances.
 
 ## Requirements
 
